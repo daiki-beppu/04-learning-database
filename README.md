@@ -27,21 +27,21 @@
 
 ### フロントエンド開発
 - **基本技術**
- - HTML
- - CSS
- - JavaScript/TypeScript
+ - - HTML
+ - - CSS
+ - - JavaScript/TypeScript
 - **開発ツール**
- - ESLint
- - Prettier
+ - - ESLint
+ - - Prettier
 - **フレームワーク**
- - React
- - Next.js
+ - - React
+ - - Next.js
 - **3Dグラフィックス (Three.js)**
- - 基本概念
- - クラシックテクニック
- - 高度なテクニック
- - シェーダー
- - React Three Fiber
+ - - 基本概念
+ - - クラシックテクニック
+ - - 高度なテクニック
+ - - シェーダー
+ - - React Three Fiber
 
 ## 🛠 開発環境
 
