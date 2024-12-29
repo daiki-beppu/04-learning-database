@@ -1,4 +1,7 @@
 {
   "name": "04-learning-database",
-  "packageManager": "yarn@4.5.3"
+  "packageManager": "yarn@4.5.3",
+  "dependencies": {
+    "prettier": "^3.4.2"
+  }
 }
